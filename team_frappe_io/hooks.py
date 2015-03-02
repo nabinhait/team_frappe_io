@@ -1,5 +1,5 @@
-from __future__ import unicode_literals
 # -*- coding: utf-8 -*-
+from __future__ import unicode_literals
 
 app_name = "team_frappe_io"
 app_title = "Frappe Team"
