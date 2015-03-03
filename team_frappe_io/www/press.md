@@ -25,7 +25,7 @@
 		<a href="http://www.themukt.com/2014/09/19/india-yet-catch-foss-says-rushabh-mehta-erpnext/" target="_blank">
 			<h4 class="media-heading">India yet to catch up with FOSS, says Rushabh Mehta of ERPNext</h4></a>
 		<p class="text-muted">September 2014</p>
-		<p>We got a chance to interact with Rushabh Mehta, the founder of Web Notes Technologies, a company based in Mumbai, India. ERPNext is the major product of the company. It is a free and Open Source web based ERP (Enterprise Resource Planning) solution for small and medium sized businesses with its presence in more than 60 countries.</p>
+		<p>We got a chance to interact with Rushabh Mehta, the founder of Frappe Technologies, a company based in Mumbai, India. ERPNext is the major product of the company. It is a free and Open Source web based ERP (Enterprise Resource Planning) solution for small and medium sized businesses with its presence in more than 60 countries.</p>
 		<p><a href="http://www.themukt.com/2014/09/19/india-yet-catch-foss-says-rushabh-mehta-erpnext/" target="_blank">Read more.</a></p>
 	</div>
 </div>
