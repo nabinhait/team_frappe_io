@@ -1,6 +1,6 @@
-## Frappe Team
+## Frappe About
 
-team.frappe.io
+about.frappe.io
 
 #### License
 

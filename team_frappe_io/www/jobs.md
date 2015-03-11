@@ -6,8 +6,6 @@
 
 If you are passionate, obsessive and persistent Software Developer, Designer or Writer, someone who believes in the long term, values quality and believes that honesty is above everything else, we want to know you.
 
-<a href="/join-us" class="btn btn-default">Apply for a position</a>
-
 ---
 
 Here are some roles for which we are always looking for candidates.
@@ -22,10 +20,4 @@ Our expectation is that you will make a significant contribution to the product 
 
 #### Interested?
 
-<a href="/join-us" class="btn btn-default">Apply for a position</a>
-
----
-
-Here is a slightly dated video of our team:
-
-<iframe width="640" height="360" src="//www.youtube.com/embed/zRoFnqN6kPU?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+<a href="/join-us" class="btn btn-primary">Apply for a position</a>

@@ -38,3 +38,9 @@ Our biggest satisfaction will be when a whole bunch of small, local, innovative 
 Rushabh Mehta<br>
 Founder<br>
 ERPNext and Frappe
+
+---
+
+Here is a slightly dated (April 2013) video of our team:
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/zRoFnqN6kPU?feature=player_embedded" frameborder="0" allowfullscreen></iframe>

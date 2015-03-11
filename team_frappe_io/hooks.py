@@ -13,14 +13,16 @@ app_version = "0.0.1"
 required_apps = ["frappe_theme"]
 
 website_context = {
-	"nav_brand": "Frappé Team",
-	"nav_links": [
-		("Jobs", "/jobs"),
-		("Press", "/press"),
-		("Blog", "https://blog.frappe.io")
-	]
+	"brand_html": "Frappé Team",
+	"top_bar_items": [
+		{"label":"Jobs", "url":"/jobs", "right": 1},
+		{"label":"Press", "url":"/press", "right": 1},
+		{"label":"Blog", "url":"https://blog.frappe.io", "right": 1}
+	],
+	"hide_login": 1
 }
 
+fixtures = ["Contact Us Settings", "Web Form", "Email Alert"]
 
 # Includes in <head>
 # ------------------
@@ -119,4 +121,3 @@ website_context = {
 # 	"frappe.desk.doctype.event.event.get_events": "team_frappe_io.event.get_events"
 # }
 
-fixtures = ["Contact Us Settings"]
