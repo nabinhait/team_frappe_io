@@ -2,7 +2,6 @@
  {
   "attach_print": 1, 
   "condition": null, 
-  "creation": "2015-03-11 16:43:18.735338", 
   "date_changed": null, 
   "days_in_advance": 0, 
   "docstatus": 0, 
@@ -10,31 +9,14 @@
   "document_type": "Frappe Job Applicant", 
   "enabled": 1, 
   "event": "New", 
-  "idx": null, 
   "message": "New Job Applicant. Please see attachment.", 
   "modified": "2015-03-11 17:13:44.137321", 
-  "modified_by": "Administrator", 
   "name": "5c24af3", 
-  "owner": "Administrator", 
-  "parent": null, 
-  "parentfield": null, 
-  "parenttype": null, 
   "recipients": [
    {
     "cc": "team@frappe.io", 
     "condition": null, 
-    "creation": "2015-03-11 16:43:18.735338", 
-    "docstatus": 0, 
-    "doctype": "Email Alert Recipient", 
-    "email_by_document_field": null, 
-    "idx": 1, 
-    "modified": "2015-03-11 17:13:44.137321", 
-    "modified_by": "Administrator", 
-    "name": "d7b199b", 
-    "owner": "Administrator", 
-    "parent": "5c24af3", 
-    "parentfield": "recipients", 
-    "parenttype": "Email Alert"
+    "email_by_document_field": null
    }
   ], 
   "subject": "New Job Applicant", 
