@@ -13,7 +13,7 @@ app_version = "0.0.1"
 required_apps = ["frappe_theme"]
 
 website_context = {
-	"brand_html": "Frappé Team",
+	"brand_html": "Frappé",
 	"top_bar_items": [
 		{"label":"Jobs", "url":"/jobs", "right": 1},
 		{"label":"Press", "url":"/press", "right": 1},
