@@ -17,6 +17,7 @@ website_context = {
 	"top_bar_items": [
 		{"label":"Jobs", "url":"/jobs", "right": 1},
 		{"label":"Press", "url":"/press", "right": 1},
+		{"label":"Inspiration", "url":"/inspiration", "right": 1},
 		{"label":"Blog", "url":"https://blog.frappe.io", "right": 1}
 	],
 	"hide_login": 1
