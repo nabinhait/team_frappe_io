@@ -20,4 +20,4 @@ Our expectation is that you will make a significant contribution to the product 
 
 #### Interested?
 
-<a href="/join-us" class="btn btn-primary">Apply for a position</a>
+<a href="/join-us" class="btn btn-primary" style="margin-bottom: 15px;">Apply for a position</a>
